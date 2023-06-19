@@ -7,6 +7,11 @@ body
     background-image: url('../images/Gym_hd_Copy.jpg');
 }
 .a{
+    background-color:black;
+   border: 2px solid white;
+   border-style: ridge;
+   padding: 8px;
+   opacity: 0.8;
     position: sticky;
     top: 0;
 }
